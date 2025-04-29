@@ -13,7 +13,7 @@ Children:
   - Name: DevKey
     Type: BaseDataVariableType
     DataType: String
-    Value: "jCOPhR1S3aAfIJwxKmrTbwKHDuU9ld9J"
+    Value: "Your_Key_HERE"
   - Name: WD
     Type: Alias
     DataType: NodeId
