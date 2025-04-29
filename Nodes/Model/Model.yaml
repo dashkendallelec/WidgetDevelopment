@@ -1,0 +1,208 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- File: Data_Types/Data_Types.yaml
+- Name: DefaultLocation
+  Id: g=023191b6b8f34a3c95ef93c0094b6f5d
+  Type: objWeatherData
+  Children:
+  - Name: time
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Jan 1, 1601, 12:00:00 AM"
+  - Name: dewPoint
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: humidity
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: pressureSurfaceLevel
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: temperature
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windDirection
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windGust
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windSpeed
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: lat
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: lon
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: type
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: dtString
+    Type: BaseDataVariableType
+    DataType: DateString
+    Value: "0"
+  - Name: dtNew
+    Type: BaseDataVariableType
+    DataType: DateTime
+    Value: "2025-05-05T01:01:01.0000000"
+- Name: AlaskaLocation
+  Id: g=d04d8f00373f5f3dbac512139ab3b972
+  Type: objWeatherData
+  Children:
+  - Name: time
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Jan 1, 1601, 12:00:00 AM"
+  - Name: dewPoint
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: humidity
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: pressureSurfaceLevel
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: temperature
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windDirection
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windGust
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windSpeed
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: lat
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: lon
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: type
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: dtString
+    Type: BaseDataVariableType
+    DataType: DateString
+    Value: "0"
+  - Name: dtNew
+    Type: BaseDataVariableType
+    DataType: DateTime
+    Value: "2025-05-05T01:01:01.0000000"
+- Name: SaharaLocation
+  Id: g=da9b06e98febb93c9d018bf2da5079c2
+  Type: objWeatherData
+  Children:
+  - Name: time
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Jan 1, 1601, 12:00:00 AM"
+  - Name: dewPoint
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: humidity
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: pressureSurfaceLevel
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: temperature
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windDirection
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windGust
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windSpeed
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: lat
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: lon
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: type
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: dtString
+    Type: BaseDataVariableType
+    DataType: DateString
+    Value: "0"
+  - Name: dtNew
+    Type: BaseDataVariableType
+    DataType: DateTime
+    Value: "2025-05-05T01:01:01.0000000"
+- Name: LakelandLocation
+  Id: g=1e27a3490fb904c709861723aefa6d25
+  Type: objWeatherData
+  Children:
+  - Name: time
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Jan 1, 1601, 12:00:00 AM"
+  - Name: dewPoint
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: humidity
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: pressureSurfaceLevel
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: temperature
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windDirection
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windGust
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windSpeed
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: lat
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: lon
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: type
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: dtString
+    Type: BaseDataVariableType
+    DataType: DateString
+    Value: "0"
+  - Name: dtNew
+    Type: BaseDataVariableType
+    DataType: DateTime
+    Value: "2025-05-05T01:01:01.0000000"

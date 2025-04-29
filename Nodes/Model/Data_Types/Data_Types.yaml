@@ -1,0 +1,54 @@
+Name: Data Types
+Type: FolderType
+Children:
+- Name: objWeatherData
+  Id: g=3251936b19bacf5ae7fc9d108ef1bbf4
+  Supertype: BaseObjectType
+  Children:
+  - Name: time
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "Jan 1, 1601, 12:00:00 AM"
+  - Name: dewPoint
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: humidity
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: pressureSurfaceLevel
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: temperature
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windDirection
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windGust
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: windSpeed
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: lat
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: lon
+    Type: BaseDataVariableType
+    DataType: Float
+  - Name: name
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: type
+    Type: BaseDataVariableType
+    DataType: String
+    Value: "0"
+  - Name: dtString
+    Type: BaseDataVariableType
+    DataType: DateString
+    Value: "0"
+  - Name: dtNew
+    Type: BaseDataVariableType
+    DataType: DateTime
+    Value: "2025-05-05T01:01:01.0000000"
